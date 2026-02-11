@@ -1,0 +1,7 @@
+{
+  "name": "Ethereal Hands Particle System",
+  "description": "An interactive 3D particle system that reacts to hand gestures using MediaPipe and Three.js. Push particles with an open hand or pull them with a fist.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
