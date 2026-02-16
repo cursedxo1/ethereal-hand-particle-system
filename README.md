@@ -19,4 +19,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1O27oeUjjsEdT9bbvs2vHiH
 3. Run the app:
    `npm run dev`
 
-# Project By:
+# Project By: https://github.com/cursedxo1
